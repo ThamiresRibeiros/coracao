@@ -4,7 +4,7 @@
 ultilizando css e js. </p>
 com uma animação em js bem simples. </p>
 Caso deseje ver como é esse projeto, recomendo acessar o link</p>
-abaixo para ter acesso ao cartão.
+abaixo para ter acesso ao coração.
 </h4>
 <h1>👇🏽</h1>
 <a href="https://thamiresribeiros.github.io/coracao/">Coração</a>
@@ -17,7 +17,7 @@ abaixo para ter acesso ao cartão.
 using css and js. </p>
 with a very simple js animation. </p>
 If you want to see what this project looks like, access the link</p>
-below to access the card.
+below to access the heart.
 </h4>
 <h1>👇🏽</h1>
 <a href="https://thamiresribeiros.github.io/coracao/">Heart</a>
@@ -30,7 +30,7 @@ below to access the card.
 usando css y js. </p>
 con una animación js muy simple. </p>
 Si quieres ver cómo es este proyecto accede al enlace</p>
-abajo para acceder a la tarjeta.
+abajo para acceder al corazón.
 </h4>
 <h1>👇🏽</h1>
 <a href="https://thamiresribeiros.github.io/coracao/">Corazón</a>
