@@ -21,3 +21,16 @@ below to access the card.
 </h4>
 <h1>👇🏽</h1>
 <a href="https://thamiresribeiros.github.io/coracao/">Heart</a>
+
+##
+
+<h1>Corazón animado <img align="center" alt="card" width="4%" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/756310173215096843/1007314385624109056/unknown.png"></h1>
+
+<h4> Crea un corazón animado para aprender,</p>
+usando css y js. </p>
+con una animación js muy simple. </p>
+Si quieres ver cómo es este proyecto accede al enlace</p>
+abajo para acceder a la tarjeta.
+</h4>
+<h1>👇🏽</h1>
+<a href="https://thamiresribeiros.github.io/coracao/">Corazón</a>
