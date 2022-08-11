@@ -1,6 +1,6 @@
 .reaction{
     cursor: pointer;
-    font-size: 24px;
+    font-size: 100px;
     user-select: none;
     -webkit-tap-highlight-color: transparent;
 }
@@ -15,6 +15,7 @@
 }
 .like{
     color: #f81348;
+    border-radius: 50%;
     animation: like 0.3s ease-in forwards;
     background: #f813482b;
 }
